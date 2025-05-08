@@ -1,3 +1,5 @@
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](http://a.d44k.cc/app.html)
+<br></br><br></br><br></br>
 import pygame
 import random
 import sys
